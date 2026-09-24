@@ -15,6 +15,6 @@ I build AI and ML systems end to end, and I measure whether they actually work.
 🛒 **[MSME Marketplace](https://github.com/pavansai2608/msme-marketplace)** — A marketplace for small Indian manufacturers, inherited as a four-person codebase and rebuilt where it did not hold up: a real recommendation service in place of a "forecasting" feature that was a hardcoded constant, the access-control holes closed, and zero tests turned into 133.
 
 **Tech I work with:**
-Python · TypeScript · FastAPI · LangGraph/LangChain · scikit-learn · LightGBM · XGBoost · transformers · pandas · Node.js · Express · React · MongoDB · MySQL · ChromaDB · Docker · Kubernetes · Jenkins · MLflow · DVC · AWS
+Python · JavaScript · FastAPI · LangGraph/LangChain · scikit-learn · LightGBM · XGBoost · pandas · Node.js · Express · React · MongoDB · MySQL · ChromaDB · Docker · Kubernetes · Jenkins · MLflow · DVC · AWS
 
 📫 [LinkedIn](https://www.linkedin.com/in/pavan-sai-krishna-goli-b5a557291) · [Portfolio](https://portfolio-two-rho-1efh6kojg3.vercel.app)
