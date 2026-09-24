@@ -1,6 +1,6 @@
 ### Hi, I'm Pavan 👋
 
-I build AI and ML systems end to end, and I measure whether they actually work. B.Tech CSE (Data Science) at NIIT University.
+I build AI and ML systems end to end, and I measure whether they actually work.
 
 **What I've built:**
 
