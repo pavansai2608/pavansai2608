@@ -8,7 +8,7 @@ I build AI and ML systems end to end, and I measure whether they actually work.
 
 ⚙️ **[Predictive Autoscaling](https://github.com/pavansai2608/predictive-autoscaling)** — Kubernetes only adds pods after load has already risen. This predicts the request rate a minute ahead and scales before the traffic arrives, which cut p99 latency 62% against the built-in autoscaler on identical traffic, for 28% more compute. It also reports the case where forecasting alone loses, and the fix for it.
 
-🎫 **[Complaint Triage](https://github.com/pavansai2608/complaint-classification-system)** — Support teams read every complaint before they know which one is urgent, so the angriest customer often waits the longest. This reads each complaint as it arrives, sorts the queue by urgency, and drafts a reply the agent edits before sending. 78.8% accuracy and 0.79 macro-F1, with anything uncertain handed to a human. [Live example](https://3-105-252-57.sslip.io).
+🎫 **[Complaint Classification](https://github.com/pavansai2608/complaint-classification-system)** — Support teams read every complaint before they know which one is urgent, so the angriest customer often waits the longest. This reads each complaint as it arrives, sorts the queue by urgency, and drafts a reply the agent edits before sending. 78.8% accuracy and 0.79 macro-F1, with anything uncertain handed to a human.
 
 📊 **[Customer Segmentation & Retention](https://github.com/pavansai2608/customer-segmentation-retention)** — Retention effort usually gets spread evenly over customers worth very different amounts. This turns 542K transactions into a retain / nurture / let-go call for 4,334 customers, using expected future spend alongside churn risk (ROC-AUC 0.78).
 
